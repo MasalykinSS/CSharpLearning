@@ -2,7 +2,6 @@ namespace MainNamespace
 {	
 	class MainClass
 	{	
-		//точка входа
 		static int Main(string[] args)
 		{
 		uint choose=20;
