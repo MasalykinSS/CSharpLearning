@@ -1,0 +1,9 @@
+C:\Users\masal_000\Desktop\Fight\Fight\bin\Debug\Fight.exe.config
+C:\Users\masal_000\Desktop\Fight\Fight\bin\Debug\Fight.exe
+C:\Users\masal_000\Desktop\Fight\Fight\bin\Debug\Fight.pdb
+C:\Users\masal_000\Desktop\Fight\Fight\obj\Debug\Fight.csprojResolveAssemblyReference.cache
+C:\Users\masal_000\Desktop\Fight\Fight\obj\Debug\Fight.Form1.resources
+C:\Users\masal_000\Desktop\Fight\Fight\obj\Debug\Fight.Properties.Resources.resources
+C:\Users\masal_000\Desktop\Fight\Fight\obj\Debug\Fight.csproj.GenerateResource.Cache
+C:\Users\masal_000\Desktop\Fight\Fight\obj\Debug\Fight.exe
+C:\Users\masal_000\Desktop\Fight\Fight\obj\Debug\Fight.pdb
